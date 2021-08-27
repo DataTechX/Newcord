@@ -1,2 +1,2 @@
-# Newcord
-Newcord
+# Xcord
+Xcord Theme
